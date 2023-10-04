@@ -5,4 +5,4 @@
 ### dos arboles de asseets de la store de unity
 ### la escena third person
 ### un script debugger que muesta por consola los nombres de los objetos ya mencionados
-![Gif consola](gif.gif)
+![Gif consola](ejer1gif.gif)
